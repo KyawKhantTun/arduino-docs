@@ -1,0 +1,6 @@
+{
+  "name": "Arduino Uno Docs",
+  "description": "A modern, interactive documentation website for Arduino Uno with pin diagrams, code examples, and project guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
